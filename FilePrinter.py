@@ -9,14 +9,14 @@ def PrintStatblocks(Statblocks):
     file = open(filename, 'w')
 
     for unit in Statblocks:
-        file.write("Name: " + unit.ReturnName() + '\n' + "Statline: Bod: " + str(unit.ReturnBody()) + ", Agi: " +
-                   str(unit.ReturnAgility()) + ", Rea: " + str(unit.ReturnReaction()) + ", Str: " + str(unit.ReturnStrength()) +
-                   ", Cha: " + str(unit.ReturnCharisma()) + ", Int: " + str(unit.ReturnIntuition()) + ", Log: " +
-                   str(unit.ReturnLogic()) + ", Wil: " + str(unit.ReturnWill()) + ", Mag: " + str(unit.ReturnMagic()) +
-                   ", Edg: " + str(unit.ReturnEdge()) + '\n' + "Limits: Physical Limit: " + str(unit.ReturnPhysicalLimit()) +
-                   ", Mental Limit: " + str(unit.ReturnMentalLimit()) + ", Social Limit: " + str(unit.ReturnSocialLimit()) +
-                   '\n' + "Equipment: " + unit.ReturnEquipment() + '\n' + "Soak Pool: " + str(unit.ReturnArmorValue()) +
-                   ", Iniative: " + unit.ReturnIniative() + '\n' + "Skills: " + unit.ReturnSkills() + '\n' +
+        file.write("Name: " + unit.Name + '\n' + "Statline: Bod: " + str(unit.Body) + ", Agi: " +
+                   str(unit.Agility) + ", Rea: " + str(unit.Reaction) + ", Str: " + str(unit.Strength) +
+                   ", Cha: " + str(unit.Charisma) + ", Int: " + str(unit.Intuition) + ", Log: " +
+                   str(unit.Logic) + ", Wil: " + str(unit.Will) + ", Mag: " + str(unit.Magic) +
+                   ", Edg: " + str(unit.Edge) + '\n' + "Limits: Physical Limit: " + str(unit.PhysicalLimit) +
+                   ", Mental Limit: " + str(unit.MentalLimit) + ", Social Limit: " + str(unit.SocialLimit) +
+                   '\n' + "Equipment: " + unit.Equipment + '\n' + "Soak Pool: " + str(unit.ArmorValue) +
+                   ", Iniative: " + unit.Iniative + '\n' + "Skills: " + unit.Skills + '\n' +
                    "Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.\n\n")
 
     file.close()

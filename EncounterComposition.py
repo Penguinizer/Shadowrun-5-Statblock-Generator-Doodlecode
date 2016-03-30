@@ -8,28 +8,6 @@ class EncounterInfo(object):
         self.MageAmount = MageMembers
         self.AdeptAmount = AdeptMembers
 
-    def ReturnType(self):
-        return self.Type
-
-    def ReturnSubtype(self):
-        return self.SubType
-
-    def ReturnPR(self):
-        return self.PR
-
-    def ReturnBasicAmount(self):
-        return self.BasicAmount
-
-    def ReturnHeavyAmount(self):
-        return self.HeavyAmount
-
-    def ReturnMageAmount(self):
-        return self.MageAmount
-
-    def ReturnAdeptAmount(self):
-        return self.AdeptAmount
-
-
 def GatherEncounterInfo():
     ## First get the type of encounter.
     ## Loop used to get a new input if first is incorrect.

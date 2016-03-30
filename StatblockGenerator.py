@@ -16,7 +16,7 @@ class StatBlock(object):
         self.Edge = Edge
         self.Name = Name
         self.Metatype = Metatype
-        self.PhysLimit = PhysLimit
+        self.PhysicalLimit = PhysLimit
         self.MentalLimit = MentalLimit
         self.SocialLimit = SocialLimit
         self.Equipment = Equipment
@@ -24,75 +24,21 @@ class StatBlock(object):
         self.ArmorValue = ArmorValue
         self.Iniative = Iniative
 
-    def ReturnBody(self):
-        return self.Body
-
-    def ReturnAgility(self):
-        return self.Agility
-
-    def ReturnReaction(self):
-        return self.Reaction
-
-    def ReturnStrength(self):
-        return self.Strength
-
-    def ReturnCharisma(self):
-        return self.Charisma
-
-    def ReturnIntuition(self):
-        return self.Intuition
-
-    def ReturnLogic(self):
-        return self.Logic
-
-    def ReturnWill(self):
-        return self.Will
-
-    def ReturnMagic(self):
-        return self.Magic
-
-    def ReturnEdge(self):
-        return self.Edge
-
-    def ReturnName(self):
-        return self.Name
-
-    def ReturnPhysicalLimit(self):
-        return self.PhysLimit
-
-    def ReturnMentalLimit(self):
-        return self.MentalLimit
-
-    def ReturnSocialLimit(self):
-        return self.SocialLimit
-
-    def ReturnEquipment(self):
-        return self.Equipment
-
-    def ReturnSkills(self):
-        return self.Skills
-
-    def ReturnArmorValue(self):
-        return self.ArmorValue
-
-    def ReturnIniative(self):
-        return self.Iniative
-
 def GenerateStatblocks(EncounterInfo):
     EncounterStatblocks = []
 
     ## Call the function to generate an individual statblock for each instance of an enemy of a type.
-    for x in range(0, EncounterInfo.ReturnBasicAmount()):
-        EncounterStatblocks.append(GenerateIndividualStatblock(EncounterInfo.ReturnPR(), 1))
+    for x in range(0, EncounterInfo.BasicAmount):
+        EncounterStatblocks.append(GenerateIndividualStatblock(EncounterInfo.PR, 1))
 
-    for x in range(0, EncounterInfo.ReturnHeavyAmount()):
-        EncounterStatblocks.append(GenerateIndividualStatblock(EncounterInfo.ReturnPR(), 2))
+    for x in range(0, EncounterInfo.HeavyAmount):
+        EncounterStatblocks.append(GenerateIndividualStatblock(EncounterInfo.PR, 2))
 
-    for x in range(0, EncounterInfo.ReturnMageAmount()):
-        EncounterStatblocks.append(GenerateIndividualStatblock(EncounterInfo.ReturnPR(), 3))
+    for x in range(0, EncounterInfo.MageAmount):
+        EncounterStatblocks.append(GenerateIndividualStatblock(EncounterInfo.PR, 3))
 
-    for x in range(0, EncounterInfo.ReturnAdeptAmount()):
-        EncounterStatblocks.append(GenerateIndividualStatblock(EncounterInfo.ReturnPR(), 4))
+    for x in range(0, EncounterInfo.AdeptAmount):
+        EncounterStatblocks.append(GenerateIndividualStatblock(EncounterInfo.PR, 4))
 
     return EncounterStatblocks
 

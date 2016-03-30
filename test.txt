@@ -1,0 +1,64 @@
+Name: Ork Generic Enemy
+Statline: Bod: 7, Agi: 6, Rea: 5, Str: 9, Cha: 4, Int: 5, Log: 5, Wil: 7, Mag: 0, Edg: 5
+Limits: Physical Limit: 10, Mental Limit: 6, Social Limit: 6
+Equipment: Katana (S+2, AP -3, Acc 6), Ruger Super Warhawk (Acc 5, Dv 9p, AP -2) or Ares Predator (Acc 6, DV 8p, AP -1), Yamaha Raiden (Acc 7, DV 11p, Ap -2. FA), Full Body Armor (18)
+Soak Pool: 25, Iniative: 3d6+10
+Skills: 5 ranks in the Firearms, Melee Combat and Spellcasting groups, 4 in Perception and other assorted skills.
+Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
+
+Name: Elf Generic Enemy
+Statline: Bod: 4, Agi: 7, Rea: 6, Str: 6, Cha: 5, Int: 4, Log: 5, Wil: 4, Mag: 0, Edg: 5
+Limits: Physical Limit: 8, Mental Limit: 6, Social Limit: 6
+Equipment: Katana (S+2, AP -3, Acc 6), Ruger Super Warhawk (Acc 5, Dv 9p, AP -2) or Ares Predator (Acc 6, DV 8p, AP -1), Yamaha Raiden (Acc 7, DV 11p, Ap -2. FA), Full Body Armor (18)
+Soak Pool: 22, Iniative: 3d6+10
+Skills: 5 ranks in the Firearms, Melee Combat and Spellcasting groups, 4 in Perception and other assorted skills.
+Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
+
+Name: Human Heavy Weapons Specialist
+Statline: Bod: 6, Agi: 8, Rea: 5, Str: 6, Cha: 3, Int: 4, Log: 5, Wil: 7, Mag: 0, Edg: 5
+Limits: Physical Limit: 8, Mental Limit: 6, Social Limit: 6
+Equipment: Katana (S+2, AP -3, Acc 6), Crocket EBR (Acc 6, DV 12P, AP -3, BF) or Enfield AS-7 (Acc 5, DV 15P, AP +3, BF, Shotgun), Full Body Armor (18)
+Soak Pool: 24, Iniative: 3d6+9
+Skills: 5 ranks in the Firearms, Melee Combat and Spellcasting groups, 4 in Perception and other assorted skills.
+Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
+
+Name: Human Heavy Weapons Specialist
+Statline: Bod: 7, Agi: 5, Rea: 6, Str: 6, Cha: 5, Int: 4, Log: 5, Wil: 6, Mag: 0, Edg: 5
+Limits: Physical Limit: 8, Mental Limit: 6, Social Limit: 7
+Equipment: Katana (S+2, AP -3, Acc 6), Crocket EBR (Acc 6, DV 12P, AP -3, BF) or Enfield AS-7 (Acc 5, DV 15P, AP +3, BF, Shotgun), Full Body Armor (18)
+Soak Pool: 25, Iniative: 3d6+10
+Skills: 5 ranks in the Firearms, Melee Combat and Spellcasting groups, 4 in Perception and other assorted skills.
+Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
+
+Name: Elf Mage
+Statline: Bod: 4, Agi: 7, Rea: 5, Str: 6, Cha: 5, Int: 6, Log: 5, Wil: 4, Mag: 5, Edg: 5
+Limits: Physical Limit: 8, Mental Limit: 7, Social Limit: 6
+Equipment: Katana (S+2, AP -3, Acc 6), Ruger Super Warhawk (Acc 5, Dv 9p, AP -2) or Ares Predator (Acc 6, DV 8p, AP -1), Yamaha Raiden (Acc 7, DV 11p, Ap -2. FA), Full Body Armor (18)
+Soak Pool: 22, Iniative: 3d6+11
+Skills: 5 ranks in the Firearms, Melee Combat and Spellcasting groups, 4 in Perception and other assorted skills.
+Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
+
+Name: Elf Mage
+Statline: Bod: 4, Agi: 9, Rea: 6, Str: 4, Cha: 5, Int: 5, Log: 4, Wil: 5, Mag: 3, Edg: 5
+Limits: Physical Limit: 8, Mental Limit: 6, Social Limit: 6
+Equipment: Katana (S+2, AP -3, Acc 6), Ruger Super Warhawk (Acc 5, Dv 9p, AP -2) or Ares Predator (Acc 6, DV 8p, AP -1), Yamaha Raiden (Acc 7, DV 11p, Ap -2. FA), Full Body Armor (18)
+Soak Pool: 22, Iniative: 3d6+11
+Skills: 5 ranks in the Firearms, Melee Combat and Spellcasting groups, 4 in Perception and other assorted skills.
+Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
+
+Name: Human Adept
+Statline: Bod: 5, Agi: 6, Rea: 4, Str: 4, Cha: 3, Int: 4, Log: 6, Wil: 4, Mag: 4, Edg: 5
+Limits: Physical Limit: 6, Mental Limit: 6, Social Limit: 5
+Equipment: Combat Axe (S+5, AP -4, Acc 5), Ruger Super Warhawk (Acc 5, Dv 9p, AP -2) or Ares Predator (Acc 6, DV 8p, AP -1), Yamaha Raiden (Acc 7, DV 11p, Ap -2. FA), Full Body Armor (18)
+Soak Pool: 23, Iniative: 3d6+8
+Skills: 5 ranks in the Firearms, Melee Combat and Spellcasting groups, 4 in Perception and other assorted skills.
+Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
+
+Name: Human Adept
+Statline: Bod: 7, Agi: 7, Rea: 7, Str: 4, Cha: 5, Int: 5, Log: 4, Wil: 4, Mag: 5, Edg: 5
+Limits: Physical Limit: 7, Mental Limit: 6, Social Limit: 6
+Equipment: Combat Axe (S+5, AP -4, Acc 5), Ruger Super Warhawk (Acc 5, Dv 9p, AP -2) or Ares Predator (Acc 6, DV 8p, AP -1), Yamaha Raiden (Acc 7, DV 11p, Ap -2. FA), Full Body Armor (18)
+Soak Pool: 25, Iniative: 3d6+12
+Skills: 5 ranks in the Firearms, Melee Combat and Spellcasting groups, 4 in Perception and other assorted skills.
+Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
+
