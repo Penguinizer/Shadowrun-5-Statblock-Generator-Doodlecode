@@ -2,7 +2,7 @@ import random
 import math
 class StatBlock(object):
     def __init__(self, Body, Agility, Reaction, Strength, Charisma, Intuition, Logic, Will, Magic, Edge,
-                Name, Metatype, PhysLimit, MentalLimit, SocialLimit, Equipment, Skills, ArmorValue, Iniative):
+                Name, Metatype, PhysLimit, MentalLimit, SocialLimit, Equipment, Skills, ArmorValue, Iniative, Dicepool):
 
         self.Body = Body
         self.Agility = Agility
@@ -23,6 +23,7 @@ class StatBlock(object):
         self.Skills = Skills
         self.ArmorValue = ArmorValue
         self.Iniative = Iniative
+        self.Dicepool = Dicepool
 
 def GenerateStatblocks(EncounterInfo):
     EncounterStatblocks = []
@@ -293,9 +294,11 @@ def GenerateIndividualStatblock(PR, Enemytype):
     else:
         Iniative = "3d6+%i" %(Reaction+Intuition)
 
+    Dicepool = SkillTempNumber + Agility
+
     ##Kerätään ja luodaan statblock joka palautetaan.
     GeneratedStatblock = StatBlock(Body, Agility, Reaction, Strength, Charisma, Intuition, Logic, Will, Magic, Edge,
-                Name, Metatype,PhysLimit, MentalLimit, SocialLimit, Equipment, Skills, ArmorValue, Iniative)
+                Name, Metatype,PhysLimit, MentalLimit, SocialLimit, Equipment, Skills, ArmorValue, Iniative, Dicepool)
     return GeneratedStatblock
 
 def RandStat(base, added):

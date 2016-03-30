@@ -1,0 +1,32 @@
+Name: Human Generic Enemy
+Statline: Bod: 4, Agi: 7, Rea: 6, Str: 5, Cha: 3, Int: 4, Log: 3, Wil: 5, Mag: 0, Edg: 4
+Limits: Physical Limit: 8, Mental Limit: 4, Social Limit: 5
+Equipment: Combat Knife (S+1, AP -2, Acc 6), Ares Predator (Acc 6, DV 8p, AP -1), Ingram Smartgun X (Acc 6, DV 8p, AP-) or AK-97 (Acc 5, DV 10p, AP -2, Burst/FA), Armor Jacket (12)
+Soak Pool: 16, Iniative: 2d6+10, Offensive Dicepool: 11
+Skills: 4 ranks in the Firearms, Melee Combat and Spellcasting groups, 3 in Perception and other assorted skills.
+Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
+
+Name: Elf Heavy Weapons Specialist
+Statline: Bod: 4, Agi: 5, Rea: 5, Str: 6, Cha: 5, Int: 3, Log: 4, Wil: 6, Mag: 0, Edg: 4
+Limits: Physical Limit: 7, Mental Limit: 5, Social Limit: 7
+Equipment: Combat Knife (S+1, AP -2, Acc 6), Ruger 100 (Acc 6, DV 11P, AP -3) or Ingram Valiant (Acc 6, DV 9P, AP -2, Full Auto), Armor Jacket (12), Helmet (2)
+Soak Pool: 18, Iniative: 2d6+8, Offensive Dicepool: 9
+Skills: 4 ranks in the Firearms, Melee Combat and Spellcasting groups, 3 in Perception and other assorted skills.
+Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
+
+Name: Human Mage
+Statline: Bod: 4, Agi: 6, Rea: 4, Str: 6, Cha: 5, Int: 3, Log: 3, Wil: 6, Mag: 5, Edg: 4
+Limits: Physical Limit: 7, Mental Limit: 5, Social Limit: 7
+Equipment: Combat Knife (S+1, AP -2, Acc 6), Ares Predator (Acc 6, DV 8p, AP -1), Ingram Smartgun X (Acc 6, DV 8p, AP-) or AK-97 (Acc 5, DV 10p, AP -2, Burst/FA), Armor Jacket (12)
+Soak Pool: 16, Iniative: 2d6+7, Offensive Dicepool: 10
+Skills: 4 ranks in the Firearms, Melee Combat and Spellcasting groups, 3 in Perception and other assorted skills.
+Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
+
+Name: Ork Adept
+Statline: Bod: 9, Agi: 5, Rea: 4, Str: 6, Cha: 3, Int: 4, Log: 4, Wil: 5, Mag: 5, Edg: 4
+Limits: Physical Limit: 7, Mental Limit: 5, Social Limit: 5
+Equipment: Sword (S+3, AP -2, Acc 6), Ares Predator (Acc 6, DV 8p, AP -1), Ingram Smartgun X (Acc 6, DV 8p, AP-) or AK-97 (Acc 5, DV 10p, AP -2, Burst/FA), Armor Jacket (12), Ballistic Mask (2)
+Soak Pool: 23, Iniative: 2d6+8, Offensive Dicepool: 9
+Skills: 4 ranks in the Firearms, Melee Combat and Spellcasting groups, 3 in Perception and other assorted skills.
+Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
+
