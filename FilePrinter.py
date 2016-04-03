@@ -15,9 +15,9 @@ def PrintStatblocks(Statblocks):
                    str(unit.Logic) + ", Wil: " + str(unit.Will) + ", Mag: " + str(unit.Magic) +
                    ", Edg: " + str(unit.Edge) + '\n' + "Limits: Physical Limit: " + str(unit.PhysicalLimit) +
                    ", Mental Limit: " + str(unit.MentalLimit) + ", Social Limit: " + str(unit.SocialLimit) +
-                   '\n' + "Equipment: " + unit.Equipment + '\n' + "Soak Pool: " + str(unit.ArmorValue) +
-                   ", Iniative: " + unit.Iniative + ", Offensive Dicepool: " + str(unit.Dicepool) +'\n' + "Skills: " + unit.Skills + '\n' +
-                   "Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.\n\n")
+                   '\n' + "Equipment: " + unit.Equipment + '\n' + "Soak Pool: " + str(unit.ArmorValue) + ", Movement: " +
+                    str(unit.Agility*2) + ", Iniative: " + unit.Iniative + ", Offensive Dicepool: " + str(unit.Dicepool) +
+                   '\n' + "Skills: " + unit.Skills + '\n' + "Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.\n\n")
 
     file.close()
 

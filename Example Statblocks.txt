@@ -1,32 +1,32 @@
-Name: Human Generic Enemy
-Statline: Bod: 4, Agi: 7, Rea: 6, Str: 5, Cha: 3, Int: 4, Log: 3, Wil: 5, Mag: 0, Edg: 4
+Name: Dwarf Generic Enemy
+Statline: Bod: 7, Agi: 5, Rea: 3, Str: 8, Cha: 5, Int: 3, Log: 4, Wil: 6, Mag: 0, Edg: 4
+Limits: Physical Limit: 8, Mental Limit: 5, Social Limit: 7
+Equipment: Combat Knife (S+1, AP -2, Acc 6), Ares Predator (Acc 6, DV 8p, AP -1), Ingram Smartgun X (Acc 6, DV 8p, AP-) or AK-97 (Acc 5, DV 10p, AP -2, Burst/FA), Armor Jacket (12)
+Soak Pool: 19, Movement: 10, Iniative: 3d6+6+1, Offensive Dicepool: 9
+Skills: 4 ranks in the Firearms, Melee Combat and Spellcasting groups, 3 in Perception and other assorted skills. +2 focus on main weapon.
+Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
+
+Name: Troll Heavy Weapons Specialist
+Statline: Bod: 8, Agi: 4, Rea: 6, Str: 7, Cha: 2, Int: 5, Log: 3, Wil: 6, Mag: 0, Edg: 4
 Limits: Physical Limit: 8, Mental Limit: 4, Social Limit: 5
-Equipment: Combat Knife (S+1, AP -2, Acc 6), Ares Predator (Acc 6, DV 8p, AP -1), Ingram Smartgun X (Acc 6, DV 8p, AP-) or AK-97 (Acc 5, DV 10p, AP -2, Burst/FA), Armor Jacket (12)
-Soak Pool: 16, Iniative: 2d6+10, Offensive Dicepool: 11
-Skills: 4 ranks in the Firearms, Melee Combat and Spellcasting groups, 3 in Perception and other assorted skills.
-Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
-
-Name: Elf Heavy Weapons Specialist
-Statline: Bod: 4, Agi: 5, Rea: 5, Str: 6, Cha: 5, Int: 3, Log: 4, Wil: 6, Mag: 0, Edg: 4
-Limits: Physical Limit: 7, Mental Limit: 5, Social Limit: 7
 Equipment: Combat Knife (S+1, AP -2, Acc 6), Ruger 100 (Acc 6, DV 11P, AP -3) or Ingram Valiant (Acc 6, DV 9P, AP -2, Full Auto), Armor Jacket (12), Helmet (2)
-Soak Pool: 18, Iniative: 2d6+8, Offensive Dicepool: 9
-Skills: 4 ranks in the Firearms, Melee Combat and Spellcasting groups, 3 in Perception and other assorted skills.
+Soak Pool: 23, Movement: 8, Iniative: 3d6+11+1, Offensive Dicepool: 8
+Skills: 4 ranks in the Firearms, Melee Combat and Spellcasting groups, 3 in Perception and other assorted skills. +2 focus on main weapon.
 Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
 
-Name: Human Mage
-Statline: Bod: 4, Agi: 6, Rea: 4, Str: 6, Cha: 5, Int: 3, Log: 3, Wil: 6, Mag: 5, Edg: 4
-Limits: Physical Limit: 7, Mental Limit: 5, Social Limit: 7
+Name: Ork Mage
+Statline: Bod: 9, Agi: 5, Rea: 4, Str: 6, Cha: 3, Int: 6, Log: 2, Wil: 5, Mag: 3, Edg: 4
+Limits: Physical Limit: 7, Mental Limit: 4, Social Limit: 5
 Equipment: Combat Knife (S+1, AP -2, Acc 6), Ares Predator (Acc 6, DV 8p, AP -1), Ingram Smartgun X (Acc 6, DV 8p, AP-) or AK-97 (Acc 5, DV 10p, AP -2, Burst/FA), Armor Jacket (12)
-Soak Pool: 16, Iniative: 2d6+7, Offensive Dicepool: 10
-Skills: 4 ranks in the Firearms, Melee Combat and Spellcasting groups, 3 in Perception and other assorted skills.
+Soak Pool: 21, Movement: 10, Iniative: 3d6+10+1, Offensive Dicepool: 9
+Skills: 4 ranks in the Firearms, Melee Combat and Spellcasting groups, 3 in Perception and other assorted skills. +2 focus on main weapon.
 Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
 
-Name: Ork Adept
-Statline: Bod: 9, Agi: 5, Rea: 4, Str: 6, Cha: 3, Int: 4, Log: 4, Wil: 5, Mag: 5, Edg: 4
-Limits: Physical Limit: 7, Mental Limit: 5, Social Limit: 5
+Name: Human Adept
+Statline: Bod: 6, Agi: 5, Rea: 4, Str: 4, Cha: 4, Int: 6, Log: 5, Wil: 5, Mag: 2, Edg: 4
+Limits: Physical Limit: 6, Mental Limit: 7, Social Limit: 6
 Equipment: Sword (S+3, AP -2, Acc 6), Ares Predator (Acc 6, DV 8p, AP -1), Ingram Smartgun X (Acc 6, DV 8p, AP-) or AK-97 (Acc 5, DV 10p, AP -2, Burst/FA), Armor Jacket (12), Ballistic Mask (2)
-Soak Pool: 23, Iniative: 2d6+8, Offensive Dicepool: 9
-Skills: 4 ranks in the Firearms, Melee Combat and Spellcasting groups, 3 in Perception and other assorted skills.
+Soak Pool: 20, Movement: 10, Iniative: 3d6+10+1, Offensive Dicepool: 9
+Skills: 4 ranks in the Firearms, Melee Combat and Spellcasting groups, 3 in Perception and other assorted skills. +2 focus on main weapon.
 Adept Powers and Ware as wished, but assume to be included in statlines. Add more if you wish.
 
