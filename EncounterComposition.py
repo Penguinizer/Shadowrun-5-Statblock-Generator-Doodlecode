@@ -14,7 +14,7 @@ def GatherEncounterInfo():
     CorrectAnswer = False
     while CorrectAnswer == False:
         try:
-            Type = int(input("Select encounter type:\n 1: Gang\n 2: Corporate Securityn\n 3: KnightErrantTeam\n 4: Opposing Team\n 5: Custom\n Selection:"))
+            Type = int(input("Select encounter type:\n 1: Gang\n 2: Corporate Security\n 3: KnightErrant Team\n 4: Opposing Team\n 5: Custom\n Selection:"))
 
             if 0 < Type <= 5:
                 CorrectAnswer = True

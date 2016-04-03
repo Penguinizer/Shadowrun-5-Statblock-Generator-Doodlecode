@@ -202,12 +202,12 @@ def GenerateIndividualStatblock(PR, Enemytype):
     MentalLimit = round((Logic*2 + Intuition + Charisma)/3)
     SocialLimit = round((Charisma*2 + Will + 4)/3)
 
-    if PR <= 3:
-        SkillTempNumber = 3
+    if PR <= 4:
+        SkillTempNumber = 4
     else:
-        SkillTempNumber = PR
+        SkillTempNumber = PR+2
 
-    Skills = "%i ranks in the Firearms, Melee Combat and Spellcasting groups, %i in Perception and other assorted skills." % (SkillTempNumber , (SkillTempNumber-1))
+    Skills = "%i ranks in the Firearms, Melee Combat and Spellcasting groups, %i in Perception and other assorted skills. +2 focus on main weapon." % (SkillTempNumber , (SkillTempNumber-1))
 
     if PR == 1:
         if Enemytype == 2:
@@ -288,11 +288,11 @@ def GenerateIndividualStatblock(PR, Enemytype):
             ArmorValue += 18
 
     if PR < 3:
-        Iniative = "1d6+%i" %(Reaction+Intuition)
+        Iniative = "2d6+%i+1" %(Reaction+Intuition)
     elif 3 < PR < 5:
-        Iniative = "2d6+%i" %(Reaction+Intuition)
+        Iniative = "3d6+%i+1" %(Reaction+Intuition)
     else:
-        Iniative = "3d6+%i" %(Reaction+Intuition)
+        Iniative = "4d6+%i+2" %(Reaction+Intuition)
 
     Dicepool = SkillTempNumber + Agility
 
